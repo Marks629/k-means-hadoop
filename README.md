@@ -60,3 +60,4 @@ Example with k = 5, 1000 points
 python generatePoints.py 3 1000 100
 ```
 ![3d](img/record.gif)
+http://www.cnblogs.com/chaoku/p/3748456.html?utm_source=tuicool
